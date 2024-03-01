@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2cc8f7-365a-4477-81ee-4f7b7f632686" name="Changes" comment="Failed for multiple of 5">
+    <list default="true" id="2d2cc8f7-365a-4477-81ee-4f7b7f632686" name="Changes" comment="Failed for multiple of 3 and multiple of 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AppTest.testFizzBuzz">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="Fizz_Buzz" />
@@ -90,9 +91,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.AppTest.testFizzBuzz" />
         <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709259863244</updated>
-      <workItem from="1709259864339" duration="693000" />
+      <workItem from="1709259864339" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="Failed for multiple of 3">
       <option name="closed" value="true" />
@@ -137,7 +138,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709260539501</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Passes for multiple of 5">
+      <option name="closed" value="true" />
+      <created>1709260579497</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709260579497</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Failed for multiple of 3 and multiple of 5">
+      <option name="closed" value="true" />
+      <created>1709260626547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709260626547</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +164,8 @@
     <MESSAGE value="Failed for multiple of 3" />
     <MESSAGE value="Passed for multiple of 3" />
     <MESSAGE value="Failed for multiple of 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Failed for multiple of 5" />
+    <MESSAGE value="Passes for multiple of 5" />
+    <MESSAGE value="Failed for multiple of 3 and multiple of 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Failed for multiple of 3 and multiple of 5" />
   </component>
 </project>
