@@ -10,6 +10,8 @@ public class App
     {
         if(n%3 == 0)
             return "Fizz" ;
+        if(n%5 == 0)
+            return "Buzz";
         return String.valueOf(n);
     }
     public static void main( String[] args )

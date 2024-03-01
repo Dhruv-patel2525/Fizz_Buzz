@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2cc8f7-365a-4477-81ee-4f7b7f632686" name="Changes" comment="Failed for multiple of 3">
+    <list default="true" id="2d2cc8f7-365a-4477-81ee-4f7b7f632686" name="Changes" comment="Failed for multiple of 5">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709259863244</updated>
-      <workItem from="1709259864339" duration="608000" />
+      <workItem from="1709259864339" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="Failed for multiple of 3">
       <option name="closed" value="true" />
@@ -121,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709260442250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Passed for multiple of 3">
+      <option name="closed" value="true" />
+      <created>1709260500594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709260500594</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Failed for multiple of 5">
+      <option name="closed" value="true" />
+      <created>1709260539501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709260539501</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Failed for multiple of 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Failed for multiple of 3" />
+    <MESSAGE value="Passed for multiple of 3" />
+    <MESSAGE value="Failed for multiple of 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Failed for multiple of 5" />
   </component>
 </project>
