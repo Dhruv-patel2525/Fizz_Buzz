@@ -16,6 +16,7 @@ public class AppTest extends TestCase
 
         assertEquals("1",FizzBuzz(1));
         assertEquals("Fizz",FizzBuzz(3));
+        assertEquals("Buzz",FizzBuzz(5));
     }
     public AppTest( String testName )
     {
